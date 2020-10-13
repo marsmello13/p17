@@ -120,3 +120,4 @@ function spawnObstacles() {
     //add each obstacle to the group
     
 }
+}
