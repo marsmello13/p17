@@ -70,11 +70,7 @@ function draw() {
   text("Score: "+ score, 500,50);        
   
   
-    if(obstaclesGroup.isTouching(monkey)){
-        
     
-    
-    }
   
   stroke("black");
   textSize(20);
